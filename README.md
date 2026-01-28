@@ -6,7 +6,7 @@ Este desafio, o terceiro da terceira etapa na Tech Foundation 2 do ONE (Oracle N
 
 ## 📌 Objetivo
 
-Criar uma conclusão estratégica apontando os principais fatores que influenciam a evasão.
+Utilizando Python e suas principais bibliotecas, coletar, tratar e analisar dados, extraindo insights valiosos para que os demais colegas da equipe de Data Science, avancem para modelos preditivos e criem uma conclusão estratégica apontando os principais fatores que influenciam a evasão.
 
 ---
 
