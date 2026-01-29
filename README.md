@@ -54,8 +54,45 @@ telecomx-churn-predictor/
 
 ---
 
+## 🔍 Visualizações e Insights
 
+🚨 Top 5 Fatores de Churn
 
+- Tipo de Contrato (Mensal vs Anual) - Fator mais crítico
+- Tempo como Cliente (< 3 meses = alto risco)
+- Valor da Conta Mensal (> R$70 = risco 60% maior)
+- Serviço Fiber Optic - Maior insatisfação
+- Falta de Serviços Adicionais - Segurança e suporte reduzem churn
 
 ---
+
+## 📎 Como Executar o Projeto
+
+Instale as dependências:
+
+- pip install pandas matplotlib seaborn
+- Abra o notebook
+- jupyter notebook
+- Execute as células na ordem
+
+---
+
+## 📄 Licença
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
+
+---
+
+## 🙏 Agradecimento
+
+- Equipe de dados da TelecomX BR pelos dados fornecidos
+
+---
+
+## 📬 Contato
+
+Projeto desenvolvido por Marcus Guedes  
+📧 Email: [mclguedes@gmail.com]  
+📱 LinkedIn: [https://www.linkedin.com/in/marcusguedes]
+
+
 
