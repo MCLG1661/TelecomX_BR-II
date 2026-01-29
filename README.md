@@ -21,12 +21,11 @@ Utilizando Python e suas principais bibliotecas, coletar, tratar, analisar dados
 ---
 
 📈 Resultados Financeiros
-Métrica	              Valor	   Impacto
 
-- Tx de Churn Atual	  26.5%	       -
-- Redução Alvo	      25%	     R$ 255.000/ano
-- Clientes Recup.   	850	     R$ 1.020.000/ano
-- ROI Esperado	      2.5x	   Retorno sobre investimento
+- Tx de Churn Atual	26.5%
+- Redução Alvo	    25%  - Economia de R$ 255.000/ano
+- Clientes Recup.   850	 - Economia de R$ 1.020.000/ano
+- ROI Esperado	    2.5x - Retorno sobre investimento
 
 ## 🛠️ Tecnologias Utilizadas
 
