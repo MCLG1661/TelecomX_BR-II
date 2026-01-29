@@ -6,7 +6,7 @@ Este desafio, o terceiro da terceira etapa na Tech Foundation 2 do ONE (Oracle N
 
 ## 📌 Objetivo
 
-Utilizando Python e suas principais bibliotecas, coletar, tratar e analisar dados, desenvolver um Sistema Preditivo de Machine Learning, capaz de identificar quais clientes têm maior probabilidade de cancelar seus serviços. O projeto transforma dados históricos em ações estratégicas de retenção, permitindo à empresa economizar até R$ 1.020.000/ano.
+Utilizando Python e suas principais bibliotecas, coletar, tratar, analisar dados e desenvolver um Sistema Preditivo de Machine Learning, capaz de identificar quais clientes têm maior probabilidade de cancelar seus serviços. O projeto transforma dados históricos em ações estratégicas de retenção, permitindo à empresa economizar até R$ 1.020.000/ano.
 
 ✨ Destaques do Projeto
 ---
