@@ -77,11 +77,6 @@ Instale as dependências:
 
 ---
 
-## 📄 Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
-
----
-
 ## 🙏 Agradecimento
 
 - Equipe de dados da TelecomX BR pelos dados fornecidos
